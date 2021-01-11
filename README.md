@@ -9,7 +9,7 @@ personal study note for the book, "Go in Action".
 
 # Table of Contents
 
-- 1. Introducing Go
+- [1. Introducing Go](notes/1.md)
 - 2. Go quick-start
 - 3. Packing and tooling
 - 4. Arrays, slices, and maps
