@@ -7,16 +7,16 @@ personal study note for the book, "Go in Action".
 
 ---
 
-# Table of Contents
+## Table of Contents
 
 - [1. Introducing Go](notes/1.md)
-- 2. Go quick-start
-- 3. Packing and tooling
-- 4. Arrays, slices, and maps
-- 5. Go's type system
-- 6. Concurrency
-- 7. Concurrency patterns
-- 8. Standard library
-- 9. Testing and benchmarking
+- [2. Go quick-start]
+- [3. Packing and tooling]
+- [4. Arrays, slices, and maps]
+- [5. Go's type system]
+- [6. Concurrency]
+- [7. Concurrency patterns]
+- [8. Standard library]
+- [9. Testing and benchmarking]
 
 ---
