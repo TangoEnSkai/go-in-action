@@ -10,7 +10,7 @@ personal study note for the book, "Go in Action".
 ## Table of Contents
 
 - [1. Introducing Go](notes/1.md)
-- [2. Go quick-start]
+- [2. Go quick-start](notes/2.md)
 - [3. Packing and tooling]
 - [4. Arrays, slices, and maps]
 - [5. Go's type system]
